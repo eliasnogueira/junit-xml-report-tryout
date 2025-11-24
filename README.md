@@ -110,6 +110,4 @@ org.opentest4j.AssertionFailedError
         at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:37)
         at org.junit.jupiter.api.Assertions.fail(Assertions.java:122)
         at com.eliasnogueira.tests.FirstTest.testThree(FirstTest.java:20)
-
-[INFO]
 ```
